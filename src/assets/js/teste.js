@@ -1,0 +1,1 @@
+console.log('funcionou o import do js');
